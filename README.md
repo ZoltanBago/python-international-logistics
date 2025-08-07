@@ -1,39 +1,29 @@
 # Python Pandas | Nemzetközi logisztika
 
-A projekt a nemzetközi logisztika esetében tartalmaz gyakorló feladatokat, amelyek a Python Pandas könyvárán alapulnak. 
+A projekt a nemzetközi logisztikával kapcsolatban tartalmaz gyakorló feladatokat, amelyek a Python Pandas könyvárán alapulnak. 
 
-![](airplane.jpg)
+![](logistics.jpg)
+*Fotó: pixabay.com*
 
+**1. Feladat** – Az adatok beolvasása
 
-##  1. Feladat – Adatok beolvasása
-Olvasd be az adatokat a CSV fájlból egy Pandas DataFrame-be, és jelenítsd meg az első 5 sort.
+**2. Feladat** – Az alapinformációk megjelenítése
 
-## 2. Feladat – Alapinformációk
-Írasd ki az adatkeret oszlopainak nevét, típusait, és a teljes rekordok számát.
+**3. Feladat** – A teljes rendelési érték kiszámítása
 
-## 3. Feladat – Teljes rendelési érték számítása
-Hozz létre egy új oszlopot TotalValueUSD néven, amely a Quantity és UnitPriceUSD szorzata.
+**4. Feladat** – A szállítási módok gyakorisága
 
-## 4. Feladat – Szállítási módok gyakorisága
-Számold meg, hogy melyik szállítási mód (Air, Sea, Rail, Truck) hányszor szerepel az adatokban.
+**5. Feladat** – A leggyakoribb ország
 
-## 5. Feladat – Leggyakoribb ország
-Határozd meg, melyik országból érkezett a legtöbb rendelés.
+**6. Feladat** – Az átlagos darabár
 
-## 6. Feladat – Átlagos darabár
-Számítsd ki az összes termék átlagos egységárát (UnitPriceUSD).
+**7. Feladat** – Az országonkénti rendelési érték
 
-## 7. Feladat – Országonkénti rendelési érték
-Számold ki, hogy országonként mennyi a teljes rendelési érték összesítve (TotalValueUSD).
+**8. Feladat** – A legnagyobb értékű rendelés
 
-## 8. Feladat – Legnagyobb értékű rendelés
-Keresd meg azt a rendelést (OrderID), amelynek a legmagasabb a TotalValueUSD értéke.
+**9. Feladat** – Az időbeli sorrend
 
-## 9. Feladat – Időbeli sorrend
-Rendezd a rendeléseket ShipmentDate szerint növekvő sorrendbe.
-
-## 10. Feladat – Termékcsoportosítás
-Csoportosítsd a rendeléseket termékenként, és írd ki, hogy hány darabot (Quantity) rendeltek egyes termékekből összesen.
+**10. Feladat** – Termékcsoportosítás
 
 ## Licenc
 
