@@ -32,5 +32,11 @@ Rendezd a rendeléseket ShipmentDate szerint növekvő sorrendbe.
 ## 10. Feladat – Termékcsoportosítás
 Csoportosítsd a rendeléseket termékenként, és írd ki, hogy hány darabot (Quantity) rendeltek egyes termékekből összesen.
 
+## Licenc
+
+Ez a projekt a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) licenc alatt érhető el.  
+Szabadon másolható, tanulmányozható és módosítható **nem kereskedelmi célra**, a szerző (Bagó Zoltán) nevének feltüntetése mellett.
+
+Kereskedelmi felhasználás esetén külön engedély szükséges.
 
 
