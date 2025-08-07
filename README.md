@@ -1,4 +1,4 @@
-# Python Pandas | Nemzetközi logisztika
+# Python Pandas Projekt | Nemzetközi logisztika
 
 A projekt a nemzetközi logisztikával kapcsolatban tartalmaz kezdő szintű gyakorló feladatokat, amelyek a Python Pandas könyvtárán alapulnak.  
 
