@@ -2,6 +2,9 @@
 
 A projekt a nemzetközi logisztika esetében tartalmaz gyakorló feladatokat, amelyek a Python Pandas könyvárán alapulnak. 
 
+![](airplane.jpg)
+
+
 ##  1. Feladat – Adatok beolvasása
 Olvasd be az adatokat a CSV fájlból egy Pandas DataFrame-be, és jelenítsd meg az első 5 sort.
 
