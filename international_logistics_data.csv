@@ -1,0 +1,11 @@
+OrderID,Country,Product,Quantity,UnitPriceUSD,ShipmentMode,ShipmentDate
+1001,Germany,Electronics,50,500,Air,2025-08-01
+1002,USA,Clothing,100,30,Sea,2025-08-02
+1003,China,Machinery,30,1200,Rail,2025-08-03
+1004,France,Wine,80,20,Air,2025-08-04
+1005,Brazil,Coffee,200,15,Sea,2025-08-05
+1006,India,Pharmaceuticals,150,100,Air,2025-08-06
+1007,Germany,Automobiles,70,20000,Rail,2025-08-07
+1008,USA,Electronics,60,450,Sea,2025-08-08
+1009,China,Textiles,120,10,Air,2025-08-09
+1010,France,Cheese,90,25,Truck,2025-08-10
