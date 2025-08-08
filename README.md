@@ -3,7 +3,7 @@
 A projekt a nemzetközi logisztikával kapcsolatban tartalmaz kezdő szintű gyakorló feladatokat, amelyek a Python Pandas könyvtárán alapulnak.  
 
 ![](logistics.jpg)
-*Fotó: pixabay.com*
+*Kép forrása: pixabay.com*
 
 **1. Feladat** – Az adatok beolvasása
 
