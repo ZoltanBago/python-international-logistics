@@ -7,23 +7,23 @@ A projekt a nemzetközi logisztikával kapcsolatban tartalmaz kezdő szintű gya
 
 **1. Feladat** – Az adatok beolvasása
 
-**2. Feladat** – Az alapinformációk megjelenítése
+**2. Feladat** – Az alapinformációk megismerése
 
-**3. Feladat** – A teljes rendelési érték kiszámítása
+**3. Feladat** – A teljes rendelési érték nevű oszlop létrehozása és kiszámítása
 
-**4. Feladat** – A szállítási módok gyakorisága
+**4. Feladat** – A szállítási módok gyakoriságának meghatározása
 
-**5. Feladat** – A leggyakoribb ország
+**5. Feladat** – A legtöbb rendelést leadó ország meghatározása
 
-**6. Feladat** – Az átlagos darabár
+**6. Feladat** – Az összes termék átlagos egységárának meghatározása
 
-**7. Feladat** – Az országonkénti rendelési érték
+**7. Feladat** – A teljes rendelési érték meghatározása országonként
 
-**8. Feladat** – A legnagyobb értékű rendelés
+**8. Feladat** – A legnagyobb értékű rendelést leadó ország meghatározása
 
-**9. Feladat** – Az időbeli sorrend
+**9. Feladat** – Az időbeli sorrend meghatározása
 
-**10. Feladat** – Termékcsoportosítás
+**10. Feladat** – A termékek csoportosítása
 
 ## Licenc
 
